@@ -175,7 +175,7 @@ query is still there if you refresh the page or restart the backend. Your choice
 ### 1. Get the code
 
 ```bash
-git clone <this-repo-url>
+git clone < https://github.com/AljaziAlmujaddam/procurement-ai-assistant.git >
 cd procurement-ai-assistant
 ```
 
